@@ -1,0 +1,47 @@
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header-list {
+    display: flex;
+    justify-content: center;
+    gap: 120px;
+}
+
+.golovne-name {
+    display: flex;
+    justify-content: center;
+}
+
+.golovne-img {
+    display: flex;
+    justify-content: center;
+}
+
+.golovne-text {
+    display: flex;
+    justify-content: center;
+}
+
+main {
+    background-color: rgb(44, 214, 186);
+}
+
+.syget-name {
+    display: flex;
+    justify-content: center;
+}
+
+.syget-img {
+    display: flex;
+    justify-content: center;
+}
+
+.syget-text {
+    display: flex;
+    justify-content: center;
+}
